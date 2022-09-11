@@ -63,9 +63,6 @@ public class LDRegistrationSummaryFragment extends Fragment {
     private TextView management_provided_for_hb_level;
     private TextView management_provided_for_syphilis;
 
-    public LDRegistrationSummaryFragment() {
-    }
-
     public static LDRegistrationSummaryFragment newInstance() {
         return new LDRegistrationSummaryFragment();
     }
