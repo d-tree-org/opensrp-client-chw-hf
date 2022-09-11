@@ -12,20 +12,61 @@ import android.widget.TextView;
 import org.smartregister.chw.hf.R;
 
 public class LDRegistrationSummaryFragment extends Fragment {
-    private TextView bmi, edd, para, pmtct, weight, height, gravida, systolic, edd_note, gest_age,
-            tt_doses, hb_level, syphilis, diastolic, ipt_doses, rh_factor, pulse_rate, temperature,
-            true_labour, blood_group, danger_signs, visit_number, hb_test_date, gest_age_note,
-            itn_llin_used, admission_date, admission_time, children_alive, fetal_movement,
-            admission_place, pmtct_test_date, respiratory_rate, fetal_heart_rate, admission_reason,
-            art_prescription, labour_onset_date, labour_onset_time, ruptured_membrane, number_of_abortion,
-            reason_for_referral, admitting_person_name, last_menstrual_period, membrane_ruptured_date,
-            membrane_ruptured_time, management_provided_for_rh, admission_info_danger_signs,
-            management_provided_for_pmtct, management_provided_for_hb_level, management_provided_for_syphilis;
+
+    private TextView bmi;
+    private TextView edd;
+    private TextView para;
+    private TextView pmtct;
+    private TextView weight;
+    private TextView height;
+    private TextView gravida;
+    private TextView systolic;
+    private TextView edd_note;
+    private TextView gest_age;
+    private TextView tt_doses;
+    private TextView hb_level;
+    private TextView syphilis;
+    private TextView diastolic;
+    private TextView ipt_doses;
+    private TextView rh_factor;
+    private TextView pulse_rate;
+    private TextView temperature;
+    private TextView true_labour;
+    private TextView blood_group;
+    private TextView danger_signs;
+    private TextView visit_number;
+    private TextView hb_test_date;
+    private TextView gest_age_note;
+    private TextView itn_llin_used;
+    private TextView admission_date;
+    private TextView admission_time;
+    private TextView children_alive;
+    private TextView fetal_movement;
+    private TextView admission_place;
+    private TextView pmtct_test_date;
+    private TextView respiratory_rate;
+    private TextView fetal_heart_rate;
+    private TextView admission_reason;
+    private TextView art_prescription;
+    private TextView labour_onset_date;
+    private TextView labour_onset_time;
+    private TextView ruptured_membrane;
+    private TextView number_of_abortion;
+    private TextView reason_for_referral;
+    private TextView admitting_person_name;
+    private TextView last_menstrual_period;
+    private TextView membrane_ruptured_date;
+    private TextView membrane_ruptured_time;
+    private TextView management_provided_for_rh;
+    private TextView admission_info_danger_signs;
+    private TextView management_provided_for_pmtct;
+    private TextView management_provided_for_hb_level;
+    private TextView management_provided_for_syphilis;
 
     public LDRegistrationSummaryFragment() {
     }
 
-    public static LDRegistrationSummaryFragment newInstance(String param1, String param2) {
+    public static LDRegistrationSummaryFragment newInstance() {
         return new LDRegistrationSummaryFragment();
     }
 
