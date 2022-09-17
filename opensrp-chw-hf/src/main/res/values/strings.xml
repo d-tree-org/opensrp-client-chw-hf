@@ -443,5 +443,44 @@
     <string name="callPhoneRequestTitle">Allow Phone Number Collection</string>
     <string name="callPhoneRequestMessage">Facility Healthcare Worker collect user phone numbers to be used for monitoring, evaluation and analysis of visits conducted by clients at the health facility.</string>
 
+    <string name="ge_general_examination">General Examination</string>
+    <string name="ge_general_condition">General Condition</string>
+    <string name="ge_pulse_rate">Pulse Rate</string>
+    <string name="ge_respiratory_rate">Respiratory Rate</string>
+    <string name="ge_temperature">Temperature</string>
+    <string name="ge_systolic">Systolic</string>
+    <string name="ge_diastolic">Diastolic</string>
+    <string name="ge_urine_protein">Urine Protein</string>
+    <string name="ge_urine_acetone">Urine Acetone</string>
+    <string name="ge_fundal_height">Fundal Height</string>
+    <string name="ge_lie">Lie</string>
+    <string name="ge_presentation">Presentation</string>
+    <string name="ge_contraction_frequency">Contraction Frequency</string>
+    <string name="ge_contraction_in_ten_minutes">Contraction in ten minutes</string>
+    <string name="ge_fetal_heart_rate">Count Fetal Heart Rate</string>
+    <string name="ge_level">Level</string>
+    <string name="ge_vaginal_examination">Vaginal Examination</string>
+    <string name="ge_vaginal_exam_date">Vaginal examination Date</string>
+    <string name="ge_labour_onset_time">Labor onset time</string>
+    <string name="ge_vaginal_exam_time">Vaginal examination Time</string>
+    <string name="ge_cervix_state">Cervix (State)</string>
+    <string name="ge_cervix_dilation">Cervix (Dilation)</string>
+    <string name="ge_presenting_part">Presenting part</string>
+    <string name="ge_occiput_position">Position of Occiput</string>
+    <string name="ge_mento_position">Position of mento</string>
+    <string name="ge_sacro_position">Position of sacro</string>
+    <string name="ge_dorso_position">Position of dorso</string>
+    <string name="ge_moulding">Moulding</string>
+    <string name="ge_moulding_options">Moulding Options</string>
+    <string name="ge_station">Station</string>
+    <string name="ge_amniotic_fluid">Amniotic fluid</string>
+    <string name="ge_decision">Decision</string>
+    <string name="ge_forecasted_svd_time">Forecasted SVD Time</string>
+    <string name="ge_hb_test">HB Test</string>
+    <string name="ge_hb_test_conducted">Has the HB test been conducted?</string>
+    <string name="ge_reason_for_not_conducting_hb_test">Reason as to why the HB Level test was not conducted</string>
+    <string name="ge_hb_level">HB Level (g/dl)</string>
+    <string name="ge_management_provided_for_hb_level">Was management provided for abnormal HB Level?</string>
+    <string name="ge_hb_test_date">HB Measurement Date</string>
 
 </resources>
