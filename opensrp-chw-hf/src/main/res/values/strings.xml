@@ -443,5 +443,21 @@
     <string name="callPhoneRequestTitle">Allow Phone Number Collection</string>
     <string name="callPhoneRequestMessage">Facility Healthcare Worker collect user phone numbers to be used for monitoring, evaluation and analysis of visits conducted by clients at the health facility.</string>
 
+    <string name="pd_post_delivery_observation">Post Delivery Observation</string>
+    <string name="pd_vagina_observation">Vagina</string>
+    <string name="pd_vaginal_bleeding_observation">Vaginal bleeding observation</string>
+    <string name="pd_perineum_observation">Perineum</string>
+    <string name="pd_degree_of_perineum_tear">Degree of tear</string>
+    <string name="pd_perineum_repair_person_name">Name of doctor/nurse who repaired the perineum</string>
+    <string name="pd_perineum_repair_occupation">Perineum repaired by</string>
+    <string name="pd_cervix_observation">Cervix observation</string>
+    <string name="pd_systolic">Systolic</string>
+    <string name="pd_diastolic">Diastolic</string>
+    <string name="pd_pulse_rate">Pulse Rate</string>
+    <string name="pd_temperature">Temperature</string>
+    <string name="pd_uterus_contraction">Has Uterus Contracted?</string>
+    <string name="pd_urination">Urination</string>
+    <string name="pd_observation_date">Observation Date</string>
+    <string name="pd_observation_time">Observation Time</string>
 
 </resources>
